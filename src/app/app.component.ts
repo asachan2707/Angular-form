@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angular-form';
 }
+
+// https://www.concretepage.com/angular-2/angular-2-formcontrol-example
+// https://www.concretepage.com/angular-2/angular-2-4-formbuilder-example
